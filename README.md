@@ -1,4 +1,3 @@
-
 # 🧠 AI-Powered Text Summarizer using DeepSeek AI
 
 An intelligent and efficient text summarization tool powered by [DeepSeek-V2](https://huggingface.co/deepseek-ai), capable of generating concise summaries for long documents, articles, or content using state-of-the-art large language models.
@@ -22,3 +21,7 @@ An intelligent and efficient text summarization tool powered by [DeepSeek-V2](ht
 git clone https://github.com/vim12345/AI-Powered-Text-Summarizer-with-DeepSeek-AI.git
 cd deepseek-summarizer
 pip install -r requirements.txt
+
+## Screenshot
+
+![output](https://github.com/user-attachments/assets/3a1c311e-391f-455e-a0b9-375becf77612)
